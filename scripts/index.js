@@ -40,7 +40,7 @@ twemoji.parse(document.body);
 
 const properties = {
   api: {
-    baseURL: 'https://api.lanyard.rest/v1'
+    baseURL: 'https://api.lanyard.rest/v1/19d37a88c4070e3b5874478b82524bff'
   },
   github_api: {
     baseURL: 'https://api.github.com'
